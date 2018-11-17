@@ -72,3 +72,4 @@ An ESP can also be created through Disk Utility on macOS if you don't want to in
 Note: The ESP partition can be created anywhere on a disk (as the computer can find the bootloaders). You can ultimately create these partitions in any order you'd like.
 
 
+i don't konw what is this 
